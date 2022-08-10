@@ -1,2 +1,1 @@
-# Aulas-Senac---Algoritimos-e-Logica
-Códigos dos exercícios aulas Senac.
+Exercicio criado em desenvolvimento do curso RSTI.
