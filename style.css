@@ -1,0 +1,29 @@
+.botaoJogoDaVelha{
+    height: 150px;
+    width: 150px;
+    font-size: 100px;
+}
+.tamanhoCampo{
+    padding-top: 4px;
+    height: 200px;
+}
+#container{
+    margin: 0;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+#tituloJogo{
+    margin: 0;
+    position: absolute;
+    top: 20px;
+    left: 40%;
+}
+.corVerde{
+color: green;
+}
+body {
+    background-image: linear-gradient(-90deg,purple,rgba(47, 224, 255, 0.911))
+}
